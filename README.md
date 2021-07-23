@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @seenark
 - 👀 I’m interested in Frontend, Backend and Blockchain Technology
 - 🌱 I’m currently learning Ethereum App
-- 💞️ I’m looking to collaborate on DAPP on BSC or Ethereum
+- 💞️ I’m looking to collaborate on DAPP on popular chain like Ethereum, Solana
 - 📫 How to reach me -> email: atiwat.s-19@hotmail.com
 
 <!---
