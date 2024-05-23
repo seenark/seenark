@@ -32,4 +32,7 @@ I am passionate about coding and building software, exploring new technologies a
 
 <a href="http://www.github.com/seenark"><img src="https://github-readme-streak-stats.herokuapp.com/?user=seenark&stroke=ffffff&background=0f172a&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=21y6yh5krtfz42zvkfpyvncmi&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=21y6yh5krtfz42zvkfpyvncmi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)]]
+<p align="left">
+  <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=21y6yh5krtfz42zvkfpyvncmi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true">
+</p>
+
