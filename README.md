@@ -8,7 +8,7 @@ I am passionate about coding and building software, exploring new technologies a
 
 * 🌍  I'm based in Thailand, Huahin
 * ✉️  You can contact me at [atiwat-s.19@hotmail.com, um\_oom@hotmail.com](mailto:atiwat-s.19@hotmail.com, um_oom@hotmail.com)
-* 🧠  I'm learning Rust, OCaml, Zig, Elm, Axum, Leptos
+* 🧠  I'm learning Elixir, Gleam, Effect
 * 🤝  I'm open to collaborating on almost private project, internal tools
 * ⚡  from seaman become Coding man
 
